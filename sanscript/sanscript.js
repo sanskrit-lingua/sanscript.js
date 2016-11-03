@@ -7,6 +7,8 @@
  * Released under the MIT and GPL Licenses.
  */
 
+var exports = module.exports = {};
+
 (function(Sanscript) {
     "use strict";
 
@@ -707,4 +709,4 @@
             return transliterateBrahmic(data, map, options);
         }
     };
-}(window.Sanscript = window.Sanscript || {}));
+}(exports));

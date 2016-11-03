@@ -2,5 +2,6 @@
   "name": "sanscript.js",
   "version": "1.0.0",
   "description": "Transliteration library for Indian languages",
-  "repository": "https://github.com/sanskrit-lingua/sanscript.js"
+  "repository": "https://github.com/sanskrit-lingua/sanscript.js",
+  "main": "sanscript/sanscript.js"
 }
